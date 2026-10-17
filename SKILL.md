@@ -1,8 +1,8 @@
 ---
 name: Weather
-description: Help user to understand wieather and help them with question: What to wear or what to take with them on trip or walk (паспорт, вимоги,
+description: "Help user to understand wieather and help them with question: What to wear or what to take with them on trip or walk (паспорт, вимоги,
   ADR, README, CHANGELOG) в єдиному стилі. Використовуй, коли треба створити
-  або оновити будь-який документ у папці docs/ або README.md.
+  або оновити будь-який документ у папці docs/ або README.md."
 ---
 
 ## Загальні правила
